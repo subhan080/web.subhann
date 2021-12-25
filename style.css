@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+body{
+background: url(nern.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+height: 2022px;
+width: 100%;
+}
+.ole{
+    flex-wrap: wrap;
+    background-color: turquoise;
+ display: flex;
+ padding-left: 0px;
+ padding-top: 10px; 
+ padding-bottom: 10px;  
+}
+.krr{
+    color-adjust: 50px ;
+    display: flex;
+    font-size: 30px;
+    color: yellow;
+    margin-left: 10px;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 280px;
+    font-size: 20px;
+}
+li{
+    list-style: none;
+    margin-left: 16px;
+    margin-top: 1px;
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+.uwe{
+    flex-wrap:wrap;
+    display: flex;
+    margin-top: 20px;
+    justify-content:cener;
+    text-align: center;
+}
+.hwe{
+    padding-left: 20px;
+}
+h1{
+    color: yellow;
+}
+.kef{
+display: flex;
+justify-content: centr;
+padding-left: 20px;
+}
+.edd{
+    display: flex;
+    text-align: center;
+    padding-left: 20px;
+}
+.qhw{
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+}
+.nrt{
+    display: flex;
+    text-align: center;
+    padding-left: 20px;
+}
+.juu{
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+}
+.pvk{
+    display: flex;
+    text-align: center;
+    padding-left: 20px;
+}
+.mtt{
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+}
+.ikr{
+    display: flex;
+    text-align: center;
+    padding-left: 20px;
+}
+.ihn{
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+}
+.ijl{
+    display: flex;
+    text-align: center;
+    padding-left: 20px;
+}
+.uwe{
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+}
+.pui{
+    display: flex;
+    text-align: center;
+    padding-left: 20px;
+}
+.urur{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    
+}
